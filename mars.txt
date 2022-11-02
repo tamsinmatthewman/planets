@@ -1,3 +1,4 @@
 Mars is red
 Mars is dry
 We added a different line in the other copy.
+This line is added to collaborators copy.
