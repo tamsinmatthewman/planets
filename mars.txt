@@ -1,2 +1,3 @@
 Mars is red
 Mars is dry
+This line is added to collaborators copy.
